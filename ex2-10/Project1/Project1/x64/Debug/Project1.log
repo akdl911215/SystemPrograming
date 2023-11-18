@@ -1,0 +1,9 @@
+﻿  MBCS_WBCS2.cpp
+C:\Users\USER\Desktop\SystemPrograming\ex2-10\Project1\Project1\MBCS_WBCS2.cpp(1,1): warning C4005: 'UNICODE': 매크로 재정의
+C:\Users\USER\Desktop\SystemPrograming\ex2-10\Project1\Project1\MBCS_WBCS2.cpp(1,1): message : 이전에 명령줄에서 선언된 'UNICODE'
+C:\Users\USER\Desktop\SystemPrograming\ex2-10\Project1\Project1\MBCS_WBCS2.cpp(2,1): warning C4005: '_UNICODE': 매크로 재정의
+C:\Users\USER\Desktop\SystemPrograming\ex2-10\Project1\Project1\MBCS_WBCS2.cpp(2,1): message : 이전에 명령줄에서 선언된 '_UNICODE'
+C:\Users\USER\Desktop\SystemPrograming\ex2-10\Project1\Project1\MBCS_WBCS2.cpp(29,11): warning C4477: 'wprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\USER\Desktop\SystemPrograming\ex2-10\Project1\Project1\MBCS_WBCS2.cpp(29,11): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\USER\Desktop\SystemPrograming\ex2-10\Project1\Project1\MBCS_WBCS2.cpp(32,2): error C4996: 'wscanf': This function or variable may be unsafe. Consider using wscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\Desktop\SystemPrograming\ex2-10\Project1\Project1\MBCS_WBCS2.cpp(34,2): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
